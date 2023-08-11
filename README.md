@@ -1,0 +1,2 @@
+# emfuscator
+ Python emoji obfuscator
